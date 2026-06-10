@@ -1,2 +1,2 @@
-# dotfiles
-my dotfiles
+# Dotfiles
+Check it out on: https://codeberg.org/novette
